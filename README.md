@@ -1,4 +1,4 @@
-# 🔗 Hi there, I am Feroz 👋
+# Hi there, I am Feroz 👋
 
 I'm pursuing a **Master of Management in Analytics** at McGill University, where I focus on **machine learning**, **business intelligence**, and **AI-powered decision products**. Before McGill, I spent five years at **British American Tobacco** leading commercial and trade-marketing analytics across the Asia-Pacific region, building the muscle for translating messy commercial questions into something a leadership team can act on in a single meeting.
 
