@@ -12,4 +12,4 @@ I work at the intersection of **business context, analytics, and technical imple
 
 [consumer-market-insights-dashboard](https://github.com/ferozobaid/consumer-market-insights-dashboard) – A sanitized executive Power BI dashboard concept for monthly market reporting. KPI governance, star-schema semantic model, consistent period logic, and a one-message-per-page UX designed for senior commercial leaders. Demonstrates how I think about BI as a product — governed measures, repeatable templates, and a visual grammar that holds up across categories and segments.
 
-Open to discussing analytics, BI, data science, AI product, and strategy analytics opportunities. Feel free to explore my repositories and reach out — [feroz.khan@mail.mcgill.ca](mailto:feroz.khan@mail.mcgill.ca).
+Open to discussing analytics, BI, data science, AI product, and strategy analytics opportunities. Feel free to explore my repositories and reach out — [feroz.khan@mail.mcgill.ca](mailto:feroz.khan@mail.mcgill.ca) · [LinkedIn](https://www.linkedin.com/in/feroz-obaid-103a51173/).
