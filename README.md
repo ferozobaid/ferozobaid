@@ -1,15 +1,19 @@
-# Hi there, I am Feroz 👋
+# Hi there, I'm Feroz 👋
 
-I'm pursuing a **Master of Management in Analytics** at McGill University, where I focus on **machine learning**, **business intelligence**, and **AI-powered decision products**. Before McGill, I spent five years at **British American Tobacco** leading commercial and trade-marketing analytics across the Asia-Pacific region, building the muscle for translating messy commercial questions into something a leadership team can act on in a single meeting.
+I'm pursuing a **Master of Management in Analytics at McGill University**, with a focus on **machine learning, business intelligence, and AI-powered decision-support products**.
 
-I work at the intersection of **business context, analytics, and technical implementation**. I'm less interested in building models for their own sake and more interested in shipping things — a calibrated probability sitting behind a typed frontend, a governed Power BI measure layer that doesn't quietly disagree with itself across pages, a recommender that can explain why it picked a song. My toolkit spans **predictive modeling, causal inference, NLP, recommendation systems, BI dashboard design**, and the agentic-workflow side of working with LLMs.
+Before McGill, I worked in commercial strategy and analytics at **British American Tobacco**, where I built experience translating messy business problems into structured analysis, dashboards, and decision-ready insights.
 
-[world-cup-predictor-lab](https://github.com/ferozobaid/world-cup-predictor-lab) – A Next.js + Python ML lab for the 2026 FIFA World Cup. Four model lenses (calibrated CatBoost, Logistic Regression, Elo + Poisson xG, and a transparent historical heuristic), a 100,000-run Monte Carlo bracket simulator, and an LLM-powered analyst brief that translates raw factors into football language. End-to-end ML productisation — offline training in Python, static JSON artifacts, typed inference in the browser, deployed on Vercel.
+I work at the intersection of **business context, analytics, and technical implementation**. My projects span predictive modeling, causal inference, NLP, recommendation systems, executive BI dashboards, and AI-enabled analytics applications.
 
-[fifa22-wage-prediction](https://github.com/ferozobaid/fifa22-wage-prediction) – An end-to-end ML pipeline on 19K FIFA 22 players that goes beyond prediction into **causal inference**. The first half is the Géron-style pipeline (preprocessing, feature engineering, model selection, hyperparameter search, persistence). The second half asks the harder question — *which skills actually cause wage uplift?* — using CausalML for heterogeneous treatment effects and DoWhy for a full structural causal model with refutations.
+[world-cup-predictor-lab](https://github.com/ferozobaid/world-cup-predictor-lab) — A Next.js + Python ML lab for the 2026 FIFA World Cup. It combines calibrated CatBoost, logistic regression, Elo + Poisson modeling, Monte Carlo simulation, and an LLM-powered analyst brief into an interactive prediction app deployed on Vercel.
 
-[readmission-risk-prediction](https://github.com/ferozobaid/readmission-risk-prediction) – A calibrated 30-day readmission risk model on 101K diabetic-patient encounters across 130 U.S. hospitals. Patient-grouped splits to prevent identity leakage, isotonic calibration that takes Brier from 0.215 to 0.098, SHAP-based per-patient explanations, and a fairness audit built in rather than bolted on. PR-AUC 0.221, Recall@10% 22.2%, Lift@10% 2.21×.
+[fifa22-wage-prediction](https://github.com/ferozobaid/fifa22-wage-prediction) — An end-to-end ML pipeline on FIFA 22 player data that goes beyond wage prediction into causal inference. The project includes preprocessing, feature engineering, model selection, hyperparameter tuning, and CausalML/DoWhy analysis.
 
-[consumer-market-insights-dashboard](https://github.com/ferozobaid/consumer-market-insights-dashboard) – A sanitized executive Power BI dashboard concept for monthly market reporting. KPI governance, star-schema semantic model, consistent period logic, and a one-message-per-page UX designed for senior commercial leaders. Demonstrates how I think about BI as a product — governed measures, repeatable templates, and a visual grammar that holds up across categories and segments.
+[readmission-risk-prediction](https://github.com/ferozobaid/readmission-risk-prediction) — A calibrated 30-day hospital readmission risk model across diabetic-patient encounters. The project includes patient-grouped splits, calibration, SHAP explanations, and fairness-oriented model evaluation.
 
-Open to discussing analytics, BI, data science, AI product, and strategy analytics opportunities. Feel free to explore my repositories and reach out — [feroz.khan@mail.mcgill.ca](mailto:feroz.khan@mail.mcgill.ca) · [LinkedIn](https://www.linkedin.com/in/feroz-obaid-103a51173/).
+[pharmacovigilance-nlp](https://github.com/ferozobaid/pharmacovigilance-nlp) — An NLP pipeline for classifying adverse drug events from free text using TF-IDF, NER-style feature engineering, and supervised machine learning.
+
+[consumer-market-insights-dashboard](https://github.com/ferozobaid/consumer-market-insights-dashboard) — A sanitized executive Power BI dashboard concept for monthly market reporting, KPI governance, category performance, channel mix, and commercial insights.
+
+Open to analytics, BI, data science, AI product, and strategy analytics opportunities.
