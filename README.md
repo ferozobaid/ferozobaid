@@ -1,4 +1,4 @@
-# Hi there, I'm Feroz 👋
+# Hi there, I'm Feroz 
 
 I'm pursuing a **Master of Management in Analytics at McGill University**, with a focus on **machine learning, business intelligence, and AI-powered decision-support products**.
 
