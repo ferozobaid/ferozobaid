@@ -8,16 +8,16 @@ I see myself as an AI & Analytics professional with experience across CPG, comme
 
 ### [Synthesis](https://github.com/ferozobaid/Synthesis) — AI-powered interview readiness platform · [Live app](https://synthesis-sand.vercel.app)
 
-A single platform for interview preparation: resume-to-job-description fit analysis, conversational AI voice interviews, behavioural coaching, strategy case simulations, and technical interview rounds, aggregated into one readiness dashboard.
+An end-to-end interview preparation platform combining resume/JD fit analysis, conversational AI voice interviews, behavioural coaching, and strategy & technical interview simulations in a unified readiness experience.
 
-- **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, deployed on Vercel
-- **LLM layer:** Anthropic Claude via the official SDK for answer evaluation, question generation, and post-call scoring
-- **Voice:** live conversational interviews through Vapi, with Upstash Redis holding session state across turns
-- **Resume fit scoring:** a hybrid method blending deterministic rule-based requirement matching (25%) with local semantic matching (75%), grounded in a committed O\*NET taxonomy subset, with an automatic rules-only fallback
-- **Embeddings:** BGE-small running locally via ONNX — no paid embedding API
-- **Case interviews:** a finite-state-machine interviewer that moves through clarification, structuring, analysis, and recommendation stages against committed case definitions with exhibits and hint ladders
-- **Document handling:** PDF and DOCX resume parsing
-- **Validation:** the fit-scoring method was selected through a 353-resume / 269-job-description study plus a 54-pair human-labelled comparison, backed by a Vitest suite of ~85 test files
+**Tech:** Next.js · TypeScript · Claude (Anthropic) · Vapi · Upstash Redis · Tailwind CSS · Vercel
+
+- **Conversational AI interviews:** voice-driven behavioural, strategy, and technical interview experiences with AI evaluation and post-call feedback
+- **Resume fit analysis:** structured requirement matching with an optional semantic scoring layer grounded in occupational data
+- **Interview simulation engine:** state-driven strategy and technical cases with structured progression, exhibits, hints, and scoring
+- **Validation:** resume/JD matching methodology evaluated against real resume and job-description datasets with human-labelled comparisons and automated testing
+
+*Public demo runs in credential-free mock mode; the repository contains the full Claude, Vapi, and Redis implementation.*
 
 ### [world-cup-predictor-lab](https://github.com/ferozobaid/world-cup-predictor-lab)
 
