@@ -1,10 +1,8 @@
 # Hi there, I'm Feroz
 
-I hold a **Master of Management in Analytics from McGill University**, with a focus on **machine learning, AI-powered products, and analytics-driven decision support**.
+I hold a Master of Management in Analytics and AI from McGill University, with a focus on machine learning, Artificial Intelligence, and analytics.
 
-Before McGill, I worked in commercial strategy and analytics at **British American Tobacco**, where I built experience translating messy business problems into structured analysis, dashboards, and decision-ready insights.
-
-I work at the intersection of **business context, analytics, and technical implementation**. My projects span applied ML, LLM-powered applications, causal inference, NLP, recommendation systems, and executive BI.
+I see myself as an AI & Analytics professional with experience across CPG, commercial strategy, and finance. Before McGill, I worked in commercial strategy and analytics at British American Tobacco and S&P Global Market Intelligence. My projects span applied ML, LLM-powered applications, causal inference, NLP, recommendation systems, and executive BI.
 
 ## Featured Projects
 
