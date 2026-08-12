@@ -1,6 +1,6 @@
 # Hi there, I'm Feroz
 
-I hold a Master of Management in Analytics and AI from McGill University, with a focus on machine learning, Artificial Intelligence, and analytics.
+I hold a Master of Management in Analytics from McGill University, with a focus on machine learning, Artificial Intelligence, and analytics.
 
 I see myself as an AI & Analytics professional with experience across CPG, commercial strategy, and finance. Before McGill, I worked in commercial strategy and analytics at British American Tobacco and S&P Global Market Intelligence. My projects span applied ML, LLM-powered applications, causal inference, NLP, recommendation systems, and executive BI.
 
@@ -17,7 +17,7 @@ An end-to-end interview preparation platform combining resume/JD fit analysis, c
 - **Interview simulation engine:** state-driven strategy and technical cases with structured progression, exhibits, hints, and scoring
 - **Validation:** resume/JD matching methodology evaluated against real resume and job-description datasets with human-labelled comparisons and automated testing
 
-*Public demo runs in credential-free mock mode; the repository contains the full Claude, Vapi, and Redis implementation.*
+*Public demo runs in credential-free mock mode; the repository contains the full Claude, Vapi, and Redis integrations.*
 
 ### [world-cup-predictor-lab](https://github.com/ferozobaid/world-cup-predictor-lab)
 
